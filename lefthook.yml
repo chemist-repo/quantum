@@ -1,0 +1,6 @@
+# Ref: https://github.com/evilmartians/lefthook/blob/master/docs/configuration.md
+
+commit-msg:
+  scripts:
+    "commitlint.sh":
+      runner: bash
